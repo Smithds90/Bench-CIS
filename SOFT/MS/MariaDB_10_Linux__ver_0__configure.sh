@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-read -p "Enter MariaDB login: " COUCH_APP_LOGIN;
+read -p "Enter MariaDB login: " APP_LOGIN;
 stty -echo;
-read -p "Enter MariaDB password: " COUCH_APP_PASSWORD;
+read -p "Enter MariaDB password: "APP_PASSWORD;
 echo;
 stty echo;
 
