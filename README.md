@@ -1,3 +1,2 @@
-"# CIS_Benchmark" 
-"# Bench-CIS" 
-"# Bench-CIS" 
+#Benchmak-CIS 2023
+#Scripts for auto-configuration
